@@ -54,7 +54,7 @@ useEffect(() => {
               loading="eager"
             />
           </div>
-          <span className="text-xl font-semibold tracking-wide"></span>
+          <span className="text-xl font-semibold tracking-wide">SDE</span>
         </div>
         <ul className="flex space-x-6 text-sm md:text-base font-medium">
           <li><a href="#home" className="hover:text-yellow-100 transition">Home</a></li>
